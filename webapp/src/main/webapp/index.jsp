@@ -1,14 +1,15 @@
 <html>
 <body>
-<h1>Welcome To IntelliQ IT</h1>
+<h1>Welcome To DevOps</h1>
+<h1>Congratulation!!! you have successfully completed CICD pipeline using Bamboo.</h1>
 </body>
 <body style="color:red;">
  <div class="container">
     <label for="uname"><b>Username:    </b></label>
-    <input type="text" placeholder="Enter Username" name="uname" required>
+    <input type="text" placeholder=" Please enter username" name="uname" required>
 <br></br>
     <label for="psw"><b>Password:     </b></label>
-    <input type="password" placeholder="Enter Password" name="psw" required>
+    <input type="password" placeholder="Please enter password" name="psw" required>
 <br></br>
    <button type="submit">Login</button>
 <style>
