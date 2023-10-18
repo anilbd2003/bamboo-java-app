@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>Welcome To DevOps</h1>
-<h1>Congratulation!!! you have successfully completed CICD pipeline using Bamboo.</h1>
+<h1>Congratulation!!! you have successfully completed CICD pipeline using Atlassian Bamboo.</h1>
 </body>
 <body style="color:red;">
  <div class="container">
